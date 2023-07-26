@@ -1,0 +1,17 @@
+{
+	"miniprogramRoot": "miniprogram/miniprogram/",
+	"pluginRoot": "miniprogram/plugin/",
+	"compileType": "plugin",
+	"appid": "touristappid",
+	"projectname": "taro-echarts-vue3",
+	"description": "echars for taro vue3",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	}
+}
